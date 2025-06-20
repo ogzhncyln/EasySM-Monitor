@@ -1,0 +1,7 @@
+node//Node1//1059.6225//375.79999999999995
+node//Node2//1082.6625//545.0375000000003
+node//Node3//946.5825000000001//738.0725000000001
+node//Node4//1212.1325000000002//749.5225000000002
+transition//T//Node1//Node2
+transition//T//Node2//Node3
+transition//T//Node2//Node4

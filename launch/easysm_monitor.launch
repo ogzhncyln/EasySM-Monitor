@@ -1,0 +1,9 @@
+<launch>
+    <arg name="tree_file" default="$(find easysm_monitor)/data/example.easysm_tree"/>
+    <arg name="monitor_topic" default="/monitor_cmd"/>
+    
+    <node pkg="easysm_monitor" type="monitor_node.py" name="easysm_monitor_node" output="screen">
+        <param name="tree_file" value="$(arg tree_file)"/>
+        <param name="monitor_topic" value="$(arg monitor_topic)"/>
+    </node>
+</launch>
