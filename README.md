@@ -2,6 +2,8 @@
 
 A real-time PyQt5-based visualization tool for state machine monitoring in ROS environments. This package provides an intuitive graphical interface to visualize, monitor, and debug state machine execution with enhanced routing, tooltips, and logging capabilities.
 
+![Screenshot from 2025-06-26 16-25-59](https://github.com/user-attachments/assets/6b1ea960-462b-4f67-93f1-3f6657248c41)
+
 ## Installation
 
 ### Prerequisites
